@@ -1,0 +1,134 @@
+.footer {
+    width: auto;
+    height: 33.5vw;
+    background-color: #23272A;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.topFooter {
+    display: flex;
+    flex-direction: row;
+    gap: 8.8vw;
+    margin: 0 4.4vw 0 0; 
+}
+
+.topFooter .Text1 h1 {
+    font-family: 'Changa', sans-serif;
+    line-height: 0.8;
+    color: #5865F2;
+    font-size: 3.1vw;
+    margin: 0 0 24px 0; /* top right bottom left */
+}
+
+.topFooter .Text1 p {
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1vw;
+    cursor: pointer;
+}
+
+.topFooter .Text2 p {
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.95vw;
+    cursor: pointer;
+}
+
+.topFooter .Text3 p {
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.95vw;
+    cursor: pointer;
+}
+
+.topFooter .Text4 p {
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.95vw;
+    cursor: pointer;
+}
+
+.topFooter .Text5 p {
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.95vw;
+    cursor: pointer;
+}
+
+.twitter, .insta, .facebook, .youtube {
+    color: white;
+    width: 2vw;
+    height: 1.2vw;
+}
+
+.footer .midFooter {
+    height: 0.9px;
+    background-color: #5865F2;
+    width: 76.5vw;
+    margin: 2vw 0 0 0;
+}
+
+.colorP {
+    color: #5865F2 !important;
+    text-decoration: none;
+}
+
+.colorP:hover {
+    text-decoration: none !important;
+    cursor: none;
+}
+
+.footer img {
+    color: white;
+}
+
+.footer button {
+    width: 4.9vw;
+    background-color: #5865F2;
+    color: white;
+    cursor: pointer;
+}
+
+.footer button:hover {
+    background-color: #7983f5;
+    transition: 0.2s;
+    transition-timing-function: ease-out;
+}
+
+.footer .bottomFooter {
+    display: flex;
+    justify-content: center;
+    gap: 63vw;
+    margin: 2.1vw 0 0 0;
+}
+
+.socialMedia {
+    display: flex;
+    flex-direction: row;
+    gap: 1.2vw;
+    margin: 1.7vw 0 0 0;
+    cursor: pointer;
+}
+
+.Text2 p:hover {
+    text-decoration: underline;
+}
+
+.Text3 p:hover {
+    text-decoration: underline;
+}
+
+.Text4 p:hover {
+    text-decoration: underline;
+}
+
+.Text5 p:hover {
+    text-decoration: underline;
+}
+
+/* * {
+    outline: 1px solid red;
+} */

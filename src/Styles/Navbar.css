@@ -1,0 +1,64 @@
+img {
+    width: 8vw;
+    cursor: pointer;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    gap: 14.6vw;
+    padding-left: 11vw;
+    align-items: center;
+    background-color: #404EED;
+    height: 4.5vw;
+    padding-top: 0.3vw;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+button {
+    width: 4.2vw;
+    height: 2.5vw;
+    border-radius: 2vw;
+    border-style: none;
+    cursor: pointer;
+    background-color: #FFFFFF;
+}
+
+.navbar .navbarCenter {
+    display: flex;
+    gap: 2.65vw;
+    font-weight: 600;
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.99vw;
+    padding-top: 0.5vw;
+}
+
+.navbar .navbarLeft {
+    display: flex;
+    justify-content: left;
+}
+
+.navbar .navbarCenter a:hover {
+    text-decoration: underline;
+}
+
+.navbar .navbarRight {
+    width: 7vw;
+    display: flex;
+    justify-content: end;
+}
+
+.navbar .navbarRight button:hover {
+    color: #404EED;
+    box-shadow: 0 4px 4px 4px;
+    transition: 0.2s;
+    transition-timing-function: ease-out;
+}
+
+/* *{
+    outline: 1px solid red;
+} */

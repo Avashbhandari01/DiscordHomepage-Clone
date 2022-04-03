@@ -1,0 +1,37 @@
+.Container3 {
+    width: auto;
+    height: 44.2vw;
+    background-color: #f6f6f6;  
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 3vw;
+}
+
+.photo2 {
+    width: 44.2vw;
+    height: 28.5vw;
+}
+
+.leftText {
+    padding-right: 5.5vw;
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+}
+
+.leftText h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 3.2vw;
+    font-weight: 700;
+    margin: 0;
+}
+
+.leftText p {
+    font-family: 'Work Sans', sans-serif;
+    color: #23272a;
+    line-height: 1.6;
+    font-size: 1.2vw;
+    font-weight: 300;
+}

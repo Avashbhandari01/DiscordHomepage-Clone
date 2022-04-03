@@ -1,0 +1,72 @@
+.Container5 {
+    width: auto;
+    height: 87.5vw;
+    background-color: #F6F6F6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.topText {
+    padding-top: 6.7vw;
+}
+
+.topText h1 {
+    color: black;
+    font-size: 4.2vw;
+    font-family: 'Changa', sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+.topText p {
+    font-family: 'Work Sans', sans-serif;
+    color: #23272a;
+    line-height: 1.6;
+    font-size: 1.2vw;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+}
+
+.photo4 {
+    width: 77vw;
+    height: 46.6vw;
+}
+
+.bottomText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5.5vw 0 0 0;
+}
+
+.bottomText button {
+    width: 19.3vw;
+    height: 3.7vw;
+    font-size: 1.2vw;
+    margin: 0;
+    color: white;
+    background-color: #404EED;
+}
+
+.bottomText button:hover {
+    background-color: #7983f5;
+    transition: 0.2s;
+    transition-timing-function: ease-out;
+    box-shadow: 0 4px 4px 4px;
+}
+
+.logo {
+    width: 3vw;
+    height: 1.5vw;
+}
+
+.bottomText h1 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+/* *{
+    outline: 1px solid red;
+} */

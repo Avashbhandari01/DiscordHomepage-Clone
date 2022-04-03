@@ -1,0 +1,46 @@
+.Container2 {
+    width: auto;
+    height: 44.4vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1vw;
+}
+
+.photo1 {
+    width: 44.2vw;
+    height: 28.5vw;
+}
+
+.leftPhoto {
+    padding-right: 2.2vw;
+}
+
+.rightText {
+    display: flex;
+    gap: 1vw;
+    flex-direction: column;
+}
+
+.rightText h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 3.2vw;
+    font-weight: 700;
+    padding-left: 4.5vw;
+    margin: 0;
+}
+
+.rightText p {
+    padding-left: 4.5vw;
+    font-family: 'Work Sans', sans-serif;
+    color: #23272a;
+    line-height: 1.6;
+    font-size: 1.2vw;
+    font-weight: 300;
+}
+
+
+/* *{
+    outline: 1px solid red;
+} */
