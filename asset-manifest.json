@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DiscordHomepage-Clone/static/css/main.4cf5bf12.css",
+    "main.js": "/DiscordHomepage-Clone/static/js/main.e0eeeb7e.js",
+    "static/js/787.70abbe18.chunk.js": "/DiscordHomepage-Clone/static/js/787.70abbe18.chunk.js",
+    "static/media/1.png": "/DiscordHomepage-Clone/static/media/1.e9a172b190ebd3ffc453.png",
+    "static/media/3.png": "/DiscordHomepage-Clone/static/media/3.e5c7c8d41e2e98c01f4f.png",
+    "static/media/6.png": "/DiscordHomepage-Clone/static/media/6.d4a389bebcb82299f62b.png",
+    "static/media/4.png": "/DiscordHomepage-Clone/static/media/4.8826b6e248443069ad30.png",
+    "static/media/5.png": "/DiscordHomepage-Clone/static/media/5.393f8dc3b92832457643.png",
+    "static/media/2.png": "/DiscordHomepage-Clone/static/media/2.240e2aa663e5674c8fc6.png",
+    "static/media/7.png": "/DiscordHomepage-Clone/static/media/7.c0b7173f0deca9d67201.png",
+    "static/media/8.png": "/DiscordHomepage-Clone/static/media/8.cc59f4a291dd7ad9367f.png",
+    "index.html": "/DiscordHomepage-Clone/index.html",
+    "main.4cf5bf12.css.map": "/DiscordHomepage-Clone/static/css/main.4cf5bf12.css.map",
+    "main.e0eeeb7e.js.map": "/DiscordHomepage-Clone/static/js/main.e0eeeb7e.js.map",
+    "787.70abbe18.chunk.js.map": "/DiscordHomepage-Clone/static/js/787.70abbe18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf5bf12.css",
+    "static/js/main.e0eeeb7e.js"
+  ]
+}
